@@ -1,4 +1,30 @@
-h1{
-    color:brown;
+h1 {
+    color: brown;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul {
+    border: 1px solid black;
+}
+
+.opcion1 {
+    background-color: aqua;
+}
+
+.opcion2 {
+    background-color: aquamarine;
+}
+
+.opcion3 {
+    background-color: beige;
+}
+
+.opcion1:hover{
+    background-color:aliceblue;
+}
+.opcion2:hover{
+    background-color: aliceblue;
+}
+.opcion3:hover{
+    background-color: aliceblue;
 }
