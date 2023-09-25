@@ -5,6 +5,7 @@ h1 {
 
 ul {
     border: 1px solid black;
+    list-style: none;
 }
 
 .opcion1 {
@@ -27,4 +28,11 @@ ul {
 }
 .opcion3:hover{
     background-color: aliceblue;
+}
+
+.principal{
+    text-align: center;
+    padding: 1%;
+    border: 1px solid black;
+    border-radius: 50px;
 }
