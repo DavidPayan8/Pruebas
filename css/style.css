@@ -1,9 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    margin: 12px;
+}
+
 h1 {
+    text-align: center;
     color: brown;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 ul {
+    text-align: left;
+    margin: 10px;
     border: 1px solid black;
     list-style: none;
 }
